@@ -9,25 +9,6 @@ Project aims to create a simple To-Do App.
 - Your company has recently started on a project that aims to create a simple To-Do App. So you and your colleagues have started to work on the project.
 - User should create, delete  and mark tasks as them done or undone
 
-## Project Skeleton 
-
-```
-002-To-Do App (folder)
-|
-|----readme.md         # Given to the students (Definition of the project)          
-|----solution
-        |----index.html  
-        |----style.css   
-        |----index.js
-```
-
-## Expected Outcome
-
-![Project 002 Snapshot](project_002_1.gif)
-![Project 002 Snapshot](project_002_2.gif)
-![Project 002 Snapshot](project_002_3.gif)
-![Project 002 Snapshot](project_002_4.gif)
-
 ## Objective
 
 Make a To-Do App as in the sample designs.
