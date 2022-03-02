@@ -1,5 +1,5 @@
 
-# Project-002 : To-Do App (JS-02)
+# Project : To-Do App 
 
 ## Description
 Project aims to create a simple To-Do App.
